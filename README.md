@@ -1,5 +1,5 @@
 ## About Me
-I am specialized in Web Development and have a good experience in building websites
+I have specialization in Web Development and have a good experience in building websites
 
 ## My Tech Stack
 
